@@ -22,6 +22,7 @@
 - Jenkins
 - WPF
 - React.js
+- Qt fot Python
 
 ## 職務経歴
 ### 2021/1 - 現在 : A社
