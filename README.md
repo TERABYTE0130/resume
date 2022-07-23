@@ -16,7 +16,7 @@
 - PHP
 
 ### フレームワーク、エンジン
-- DirectX
+- DirectX/OpenGL
 - UnrealEngine
 - Unity
 - Jenkins
@@ -24,7 +24,7 @@
 - React.js
 - Qt fot Python
 - docker
-- Elasticsearch
+- Elasticsearch/Kibana
 
 ## 職務経歴
 ### 2021/1 - 現在 : A社
