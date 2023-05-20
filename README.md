@@ -14,6 +14,10 @@
 - JavaScript
 - Groovy
 - PHP
+### VCS
+- Subversion
+- Git
+- Perforce
 
 ### フレームワーク、エンジン
 - DirectX/OpenGL
@@ -27,7 +31,11 @@
 - Elasticsearch/Kibana
 
 ## 職務経歴
-### 2021/1 - 現在 : A社
+### 2023/2 - 現在 : C社
+-
+-
+
+### 2021/1 - 2022/12 : A社
 #### 2021/1 - 2021/9 コンシューマータイトル(Switch/UnrealEngine)
 - UE4を使った技術検証、データフロー改善の検証
 - Jenkinsを使ったCI/CDパイプラインの検証
