@@ -26,7 +26,7 @@
 - Jenkins
 - WPF
 - React.js
-- Qt fot Python
+- Qt fot Python(Pyside2)
 - docker
 - Elasticsearch/Kibana
 
