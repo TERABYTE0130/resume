@@ -13,7 +13,7 @@
 - Python
 - JavaScript
 - Groovy
-- PHP
+- Go
 ### VCS
 - Subversion
 - Git
