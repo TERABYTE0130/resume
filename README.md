@@ -5,7 +5,7 @@
 - Blog:
 - Twitter:
 
-## スキル
+## スキル(業務経験のあるもの)
 ### 言語
 - C
 - C++
@@ -18,7 +18,6 @@
 - Subversion
 - Git
 - Perforce
-
 ### フレームワーク、エンジン
 - DirectX/OpenGL
 - UnrealEngine
@@ -30,12 +29,16 @@
 - docker
 - Elasticsearch/Kibana
 
+### 使用ツール
+- RenderDoc
+- Substance 3D Designer
+
 ## 職務経歴
 ### 2023/2 - 現在 : C社
 - 描画エンジニア(エフェクト)
-    - 汎用エフェクトマテリアルの作成、保守
+    - 汎用エフェクトマテリアルの作成、管理
     - Niagaraのモジュール作成、管理
-    - システムエフェクトの作成
+    - 簡易的なエフェクトの作成
 
 ### 2021/1 - 2022/12 : A社
 #### 2021/1 - 2021/9 コンシューマータイトル(Switch/UnrealEngine)
