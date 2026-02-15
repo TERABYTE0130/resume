@@ -20,23 +20,38 @@
 - Git
 - Perforce
 ### フレームワーク、エンジン
-- DirectX/OpenGL
-- UnrealEngine
-- Unity
-- Jenkins
-- WPF
-- React.js
-- Qt fot Python(Pyside2)
-- docker
-- Elasticsearch/Kibana
+|  | スキル | 
+| :--- | :--- |
+| DirectX11/12 | 3Dゲームが制作できるトイエンジンを0から自作できる程度 |
+| Unreal Engine | 汎用的なVFXシステムを作成, 中~大規模ゲームの業務経験、小規模なゲームを作成がすべて自作できる程度 |
+| Unity | 小さなゲームを自作できる程度 |
+| WPF | 業務で使用できるツールを0から自作できる程度 
+| React.js | Electron等を併用して簡単なダッシュボードアプリを自作できる程度 |
+| jQuery | 簡易的なダッシュボードアプリを自作できる程度 |
+| PySide2 | 小さなツールを自作できる程度 |
+| Jenkins | 環境構築からCI/CDパイプラインを一通り制作できる程度 |
+| RenderDoc | DX12世代のGPUが一通りできる程度 |
+| Substance 3D Designer | 技術検証で使用できるテクスチャを作成できる程度 |
+| Houdini | VATを使った破壊シミュレーションをUEのマテリアルと併用して一通り作成できる程度 |
+|Elasticsearch/Kibana|オンプレでの環境構築を行い、検証が行える程度|
+|Flutter/Dart|クライアント完結の簡易的なモバイルアプリを作成してストア配布が行える程度|
 
 ### 使用ツール
 - RenderDoc
 - Substance 3D Designer
 
 ## 職務経歴
-### 2023/2 - 現在 : C社
-- 描画エンジニア(エフェクト)
+### 2025/3 - 現在 : P社
+- エンジニア(UnrealEngine: VFX, Graphics)
+    - VFXを中心としたUnrealEngine上でのシステム開発(Graphics, Animation)
+    - ゲーム中の使用策定における取り決めや取り回し(技術的な観点から)
+    - アセット作成時のワークフローの取り決めや進行
+    - ワークフローパイプラインのルール策定や補助ツールの作成
+    - 他プロジェクトへの技術共有や相談の窓口
+    - Niagaraのモジュール作成や管理
+
+### 2023/2 - 2025/1 : C社
+- 描画エンジニア(VFX, Graphics)
     - 汎用エフェクトマテリアルの作成、管理
     - Niagaraのモジュール作成、管理
     - 簡易的なエフェクトの作成
